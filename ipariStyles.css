@@ -1,0 +1,99 @@
+img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+    align-items: center;
+}
+
+img:hover
+{
+    transform: scale(1.1);
+    transition: all 0.5s ease-out;
+}
+
+body
+{
+    align-content: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 320vh;
+    font-style: normal; 
+    font-variant: normal; 
+    background: url(bg.jpg) no-repeat center fixed;
+}
+
+h1
+{
+    font-variant: small-caps;
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: square;
+    margin-right: 15px;
+}
+
+.also1
+{
+    background-color: rgba(108, 199, 202, 0.70);
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+    border-left: 1px solid rgba(0, 0, 0, 0.8);
+    border-right: 1px solid rgba(0, 0, 0, 0.8);
+    width: 650px;
+    align-content: center;
+    margin: 0 auto;
+    border-radius: 7%;
+}
+
+.also2
+{
+    background-color: rgba(108, 199, 202, 0.60);
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+    border-left: 1px solid rgba(0, 0, 0, 0.8);
+    border-right: 1px solid rgba(0, 0, 0, 0.8);
+    width: 650px;
+    align-content: center;
+    margin: 0 auto;
+    border-radius: 7%;
+}
+
+.also3
+{
+    background-color: rgba(108, 199, 202, 0.50);
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+    border-left: 1px solid rgba(0, 0, 0, 0.8);
+    border-right: 1px solid rgba(0, 0, 0, 0.8);
+    width: 650px;
+    align-content: center;
+    margin: 0 auto;
+    border-radius: 7%;
+}
+
+.felso
+{
+    background-color: rgba(108, 199, 202, .80);
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.8);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+    border-left: 1px solid rgba(0, 0, 0, 0.8);
+    border-right: 1px solid rgba(0, 0, 0, 0.8);
+    width: 650px;
+    align-content: center;
+    margin: 0 auto;
+    border-radius: 7%;
+}
+
+.signature
+{
+    text-align: center;
+}
